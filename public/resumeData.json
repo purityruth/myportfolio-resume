@@ -1,0 +1,189 @@
+{
+  "main": {
+    "name":"Purity Ruth",
+    "description":"I am a full stack developer engineer well versed in numerous programming languages which include React, Python, Django, Laravel, Angular and vue.js.  I have a good experience with all stages of the development cycle for dynamic web projects. I have excellent design skills, development and deployment management abilities to produce flawless applications. ",
+    "image":"profilepic1.jpg",
+    "bio":"I would describe myself as someone who is creative, objective oriented, innovative, hardworking and timeline oriented. I am also an individual known to make sure things work perfectly and as intended, in order to provide high level efficiency. I am able to recognize my capabilities and work well in accordance to desired expectations, to enhance client satisfaction with my work. I am able to work with my skills proficiently to provide the best services and I always look forward to get solutions as much as possible using technology.",
+    "contactmessage":"Please write your message here to get in touch with me.",
+    "email": "purityruth09@gmail.com",
+    "phone": "+254746862634",
+    "github":"https://github.com/nordicgiant2/react-nice-resume",
+    "project":"https://github.com/nordicgiant2/react-nice-resume",
+    "address":{
+      "street":"Nairobi",
+      "city":"Nairobi",
+      "state":"Nairobi, Kenya",
+      "zip": "681-00216"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload":"http://timbakerdev.com",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://github.com/nordicgiant2/react-nice-resume",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"http://twitter.com",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"http://instagram.com/tbaker_x",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/nordicgiant2/react-nice-resume",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"A short write-up of my skills is as described below",
+    "education":[
+      {
+        "school":"Chuka University",
+        "degree":"Bachelor of Science in Computer Science",
+        "graduated":"October 2022",
+        "description":"I have a bachelor's degree in Computer science, I acquired knowledge in most used programming languages such as C, C++, Java, Python, PHP, HTML, CSS and JavaScript, as well as database management using MySql, MongoDB and Postgress. I am also familiar with discrete structures, Operating systems, Networking, Data structures and algorithms, blockchain technology, data science and cyber security. I have good skills in Web development, using most of well known javascript frameworks such as React js and Agular for client side applications, Django and Laravel frameworks for server side applications."
+      },
+      {
+        "school":"Sister of Mercy Commercial College",
+        "degree":"Computer Packages",
+        "graduated":"May 2018",
+        "description":"This is where I got a good interaction with what computers and technology can do, therefore developed my interest in pursuing a degree in an Information Technology related field."
+      }
+    ],
+    "work":[
+      {
+        "company":"COSEKE Kenya",
+        "title":"Software Developer/Engineer",
+        "years":"October 2021 - Present",
+        "description":"Full stack developer majorly working on web applications development using Python Django for the server side application and Angular for client side application. I am also incharge of cloud application deployment where I have deployed systems on web servers such as Amazon and Netlify and also local servers on premise or clients' premises. I also carry out applications implementations using the Java programming language. "
+      },
+      {
+        "company":"JBS for Schools",
+        "title":"Network Administrator/ Web Developer Assistant",
+        "years":"April 2019 - September 2019",
+        "description":"I was majorly involved in installation of systems and applications. I also had experience taking part in web development using Java for the backend. I was a skilled network administrator where I took part in internet installations, signals configurations and computer connections."
+      }
+      ],
+    "skills":[
+      {
+        "name":"Python",
+        "level":"80%"
+      },
+      {
+        "name":"Angular",
+        "level":"55%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"65%"
+      },
+      {
+        "name":"CSS",
+        "level":"90%"
+      },
+      {
+        "name":"PHP",
+        "level":"80%"
+      },
+      {
+        "name":"JavaScript",
+        "level":"70%"
+      },
+      {
+        "name":"JAVA",
+        "level":"50%"
+      },
+      {
+        "name":"C++",
+        "level":"55%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Canadian Wanderlust",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"01.jpg",
+        "url":"https://www.canadianwanderlust.com"
+      },
+      {
+        "title":"Fury Fighting Gear",
+        "category":"(offline now) A fighting gear company I started",
+        "image":"02.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Original Thai Food",
+        "category":"Website I built for a restaurant I like in Thailand",
+        "image":"03.jpg",
+        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title":"Resume Website",
+        "category":"A React based resume website template",
+        "image":"04.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Smirkspace",
+        "category":"(MVP Only) A React and Meteor based chat University project.",
+        "image":"05.jpg",
+        "url":"http://www.smirkspace.com"
+      },
+      {
+        "title":"Canadian Wanderlust",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"06.jpg",
+        "url":"https://www.canadianwanderlust.com"
+      },
+      {
+        "title":"Fury Fighting Gear",
+        "category":"(offline now) A fighting gear company I started",
+        "image":"01.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Original Thai Food",
+        "category":"Website I built for a restaurant I like in Thailand",
+        "image":"02.jpg",
+        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title":"Original Thai Food",
+        "category":"Website I built for a restaurant I like in Thailand",
+        "image":"03.jpg",
+        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title":"Resume Website",
+        "category":"A React based resume website template",
+        "image":"04.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Smirkspace",
+        "category":"(MVP Only) A React and Meteor based chat University project.",
+        "image":"05.jpg",
+        "url":"http://www.smirkspace.com"
+      },
+      {
+        "title":"Canadian Wanderlust",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"06.jpg",
+        "url":"https://www.canadianwanderlust.com"
+      }
+    ]
+  }
+}
