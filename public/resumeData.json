@@ -8,14 +8,14 @@
     "email": "purityruth09@gmail.com",
     "phone": "+254746862634",
     "github":"https://github.com/purityruth",
-    "project":"https://github.com/purityruth/myportfolio-resume",
+    "project":"https://www.linkedin.com/in/purity-ruth-3940b9227/",
     "address":{
       "street":"Nairobi",
       "city":"Nairobi",
       "state":"Nairobi, Kenya",
       "zip": "681-00216"
     },
-    "website": "http://www.purityruth.com",
+    "website": "http://www.purityruth.co.ke",
     "resumedownload":"http://purityruth.com",
     "social":[
       {
@@ -61,20 +61,44 @@
         "description":"This is where I got a good interaction with what computers and technology can do, therefore developed my interest in pursuing a degree in an Information Technology related field."
       }
     ],
-    "work":[
+    "work": [
       {
-        "company":"COSEKE Kenya",
-        "title":"Software Developer/Engineer",
-        "years":"October 2021 - Present",
-        "description":"Full stack developer majorly working on web applications development using Python Django for the server side application and Angular for client side application. I am also incharge of cloud application deployment where I have deployed systems on web servers such as Amazon and Netlify and also local servers on premise or clients' premises. I also carry out applications implementations using the Java programming language. "
+        "company": "BARIZI COMMUNICATIONS",
+        "title": "Lead Software Developer",
+        "years": "May 2024 – Present",
+        "description": "Leading software development initiatives, ensuring project alignment with goals and timelines. Overseeing CI/CD pipeline implementation, DevOps practices, and cloud deployments. Managing cross-functional collaboration with stakeholders to deliver high-quality software solutions. Conducting code reviews and integrating innovative technologies to enhance efficiency and scalability."
       },
       {
-        "company":"JBS for Schools",
-        "title":"Network Administrator/ Web Developer Assistant",
-        "years":"April 2019 - September 2019",
-        "description":"I was majorly involved in installation of systems and applications. I also had experience taking part in web development using Java for the backend. I was a skilled network administrator where I took part in internet installations, signals configurations and computer connections."
+        "company": "PICKUP MTAANI",
+        "title": "Team Lead/Project Manager",
+        "years": "February 2024 – May 2024",
+        "description": "Led the development team to ensure core system functionality and performance. Optimized development workflows, conducted code reviews, and enforced best practices. Managed QA efforts, ensuring reliable system performance and timely delivery of updates."
+      },
+      {
+        "company": "DEMAND SOLUTIONS LTD - TUNYCE MEDIA",
+        "title": "Lead Senior Developer",
+        "years": "July 2023 – February 2024",
+        "description": "Supervised a team of developers, offering guidance and mentorship. Designed and implemented scalable software solutions. Collaborated with project managers, designers, and QA engineers to enhance communication and project execution. Conducted code reviews, shared best practices, and drove process improvements."
+      },
+      {
+        "company": "COSEKE KENYA",
+        "title": "Software Developer",
+        "years": "April 2021 – July 2023",
+        "description": "Developed and maintained web applications using JavaScript and Python. Led cloud migration initiatives using AWS and Docker, reducing infrastructure costs by 40%. Built and maintained RESTful APIs for high-performance applications. Provided system support, troubleshooting, training, and documentation. Ensured software quality through continuous integration and QA processes."
+      },
+      {
+        "company": "JBS FOR SCHOOLS",
+        "title": "Software Engineer/ Hardware Engineer",
+        "years": "April 2019 – March 2020",
+        "description": "Implemented secure authentication systems using OAuth 2.0. Developed biometric registration and verification services. Designed and tested software applications. Configured and managed network equipment, including routers and security appliances. Provided system maintenance, troubleshooting, and client support."
+      },
+      {
+        "company": "GEOMIN TECHNICAL WORKS",
+        "title": "Assistant Network Administrator/Assistant Hardware Engineer",
+        "years": "June 2018 – March 2019",
+        "description": "Collected and stored system data, including CCTV footage. Performed system maintenance, troubleshooting, and data verification. Assembled and repaired computer hardware components."
       }
-      ],
+    ],
     "skills":[
       {
         "name":"Python",
@@ -113,75 +137,51 @@
   "portfolio":{
     "projects": [
       {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"01.jpg",
-        "url":"https://www.canadianwanderlust.com"
-      },
-      {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
-        "image":"02.jpg",
+        "title":"ECabinet System",
+        "category":"An eboard system tailor made for the board meetings in all cabinet offices in Kenya",
+        "image":"ecabinet.png",
         "url":"http://www.timbakerdev.com"
       },
       {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"03.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
-      },
-      {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
-        "image":"04.jpg",
+        "title":"Eboard System",
+        "category":"An eboard system for meetings management for the board members",
+        "image":"coseke.png",
         "url":"http://www.timbakerdev.com"
       },
       {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"05.jpg",
+        "title":"P&E Real Estate",
+        "category":"A React based real estate system for listing properties",
+        "image":"estate.png",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"CMSME Club",
+        "category":"Legal Services for SMEs Website",
+        "image":"cmsme.png",
+        "url":"https://cmsmeclub.com/"
+      },
+      {
+        "title":"CMSME Portal",
+        "category":"CMSME Portal for subscription legal services",
+        "image":"portal.png",
+        "url":"https://portal.cmsmeclub.com/"
+      },
+      {
+        "title":"CM Diaspora & Expatriates",
+        "category":"Website I built for legal services for Kenyan clients in the diaspora & expatriates",
+        "image":"cmdiaspora.png",
+        "url":"https://cmdiaspora-expats.com/"
+      },
+      {
+        "title":"Tunyce Media",
+        "category":"(MVP Only) An entertainment platform, livestreaming and ads enabled.",
+        "image":"tunyce.png",
         "url":"http://www.smirkspace.com"
       },
       {
         "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"06.jpg",
-        "url":"https://www.canadianwanderlust.com"
-      },
-      {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
-        "image":"01.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"02.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
-      },
-      {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"03.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
-      },
-      {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
-        "image":"04.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"05.jpg",
-        "url":"http://www.smirkspace.com"
-      },
-      {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"06.jpg",
+        "category":"My Beauty management system, for project portfolio purposes.",
+        "image":"beauty.png",
         "url":"https://www.canadianwanderlust.com"
       }
     ]
