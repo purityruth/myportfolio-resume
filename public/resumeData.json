@@ -16,17 +16,12 @@
       "zip": "681-00216"
     },
     "website": "http://www.purityruth.co.ke",
-    "resumedownload":"http://purityruth.com",
+    "resumedownload":"http://purityruth.co.ke",
     "social":[
       {
         "name":"linkedin",
         "url":"https://www.linkedin.com/in/purity-ruth-3940b9227/",
         "className":"fa fa-linkedin"
-      },
-      {
-        "name":"instagram",
-        "url":"https://www.instagram.com/_purity_ruth/",
-        "className":"fa fa-instagram"
       },
       {
         "name":"github",
