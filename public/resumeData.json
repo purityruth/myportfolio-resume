@@ -19,16 +19,6 @@
     "resumedownload":"http://purityruth.com",
     "social":[
       {
-        "name":"facebook",
-        "url":"https://www.facebook.com/purityruth",
-        "className":"fa fa-facebook"
-      },
-      {
-        "name":"twitter",
-        "url":"http://twitter.com/purityruth",
-        "className":"fa fa-twitter"
-      },
-      {
         "name":"linkedin",
         "url":"https://www.linkedin.com/in/purity-ruth-3940b9227/",
         "className":"fa fa-linkedin"

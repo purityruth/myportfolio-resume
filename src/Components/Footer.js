@@ -23,10 +23,10 @@ class Footer extends Component {
               <ul className="social-links">{networks}</ul>
 
               <ul className="copyright">
-                <li>&copy; Copyright 2023 Purity Ruth</li>
+                <li>&copy; Copyright 2025 Purity Ruth</li>
                 <li>
                   Design by{" "}
-                  <a title="PurityRuth" href="http://www.puryth.com/">
+                  <a title="PurityRuth" href="http://www.purityruth.co.ke/">
                   PurityRuth
                   </a>
                 </li>
