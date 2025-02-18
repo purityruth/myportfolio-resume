@@ -1,9 +1,9 @@
 {
   "main": {
     "name":"Purity Ruth",
-    "description":"I am a full stack developer engineer well versed in numerous programming languages which include React, Python, Django, Laravel, Angular and vue.js.  I have a good experience with all stages of the development cycle for dynamic web projects. I have excellent design skills, development and deployment management abilities to produce flawless applications. ",
+    "description": "I am a Full Stack Developer with expertise in React, Python, Django, Laravel, Angular, and Vue.js. With strong experience in team leadership, project management, and DevOps practices, I drive successful project delivery and team collaboration. I manage the full development lifecycle, from design to deployment, ensuring high-quality applications. Additionally, I have expertise in SEO to optimize web performance and visibility.",
     "image":"profilepic1.jpg",
-    "bio":"I would describe myself as someone who is creative, objective oriented, innovative, hardworking and timeline oriented. I am also an individual known to make sure things work perfectly and as intended, in order to provide high level efficiency. I am able to recognize my capabilities and work well in accordance to desired expectations, to enhance client satisfaction with my work. I am able to work with my skills proficiently to provide the best services and I always look forward to get solutions as much as possible using technology.",
+    "bio":"I am a creative, goal-oriented, and innovative professional with strong leadership and team management abilities. Known for my commitment to ensuring things work perfectly and as intended, I focus on delivering high-level results while meeting deadlines. I excel at guiding teams to success, fostering collaboration, and empowering individuals to reach their full potential. With a keen understanding of client needs, I use my skills to align projects with expectations, ensuring satisfaction. I am passionate about leveraging technology to solve problems and continuously strive to provide the best solutions.",
     "contactmessage":"Please write your message here to get in touch with me.",
     "email": "purityruth09@gmail.com",
     "phone": "+254746862634",
@@ -12,7 +12,7 @@
     "address":{
       "street":"Nairobi",
       "city":"Nairobi",
-      "state":"Nairobi, Kenya",
+      "state":", Kenya",
       "zip": "681-00216"
     },
     "website": "http://www.purityruth.co.ke",
@@ -99,7 +99,35 @@
         "description": "Collected and stored system data, including CCTV footage. Performed system maintenance, troubleshooting, and data verification. Assembled and repaired computer hardware components."
       }
     ],
-    "skills":[
+
+    "skills": [
+      {
+        "title": "Software Development & Engineering",
+        "description": "- Proficient in Python, JavaScript (ReactJS, Angular), PHP, Java, and C++\n- Strong expertise in frontend and backend frameworks for full-stack development\n- Experience in API design, microservices architecture, and RESTful services"
+      },
+      {
+        "title": "DevOps & Cloud Engineering",
+        "description": "- Experienced with AWS, Azure, and Google Cloud Platform\n- CI/CD pipeline setup with GitHub Actions, Jenkins, and Docker\n- Infrastructure as Code (IaC) using Terraform and Kubernetes\n- Strong expertise in cloud architecture and automation practices"
+      },
+      {
+        "title": "Database Management & Optimization",
+        "description": "- Expertise in SQL (MySQL, PostgreSQL, MSSQL) and NoSQL databases (MongoDB, Firebase)\n- Performance optimization, indexing, and database scaling strategies\n- Data security and compliance best practices"
+      },
+      {
+        "title": "AI & Machine Learning",
+        "description": "- Proficient in TensorFlow, PyTorch, and Scikit-Learn\n- Model training, NLP, and computer vision\n- AI-powered automation and predictive analytics"
+      },
+      {
+        "title": "Cybersecurity & Data Protection",
+        "description": "- Security best practices, encryption, and secure coding\n- Vulnerability assessments and penetration testing\n- Compliance with GDPR, HIPAA, and other security standards"
+      },
+      {
+        "title": "Leadership & Technical Strategy",
+        "description": "- CTO-level experience in leading cross-functional development teams\n- Technology strategy, digital transformation, and business growth through tech innovation\n- Agile development methodologies, team mentoring, and project management"
+      }
+    ],
+    
+    "stacks":[
       {
         "name":"Python",
         "level":"80%"

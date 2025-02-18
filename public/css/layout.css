@@ -1022,3 +1022,107 @@ footer .social-links li:first-child { margin-left: 0; }
 .github-btn{
    background-color: #34495e !important;
 }
+
+
+.skills-container {
+   display: grid;
+   grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+   gap: 20px;
+   justify-content: center;
+   align-items: center;
+   margin-top: 20px;
+   margin-bottom: 5rem;
+   padding: 0 20px;
+}
+
+.skill-card {
+   background: linear-gradient(to bottom right, rgb(48, 211, 184), #f7f7f7); /* Vibrant gradient */
+   color: #222;
+   padding: 25px;
+   border-radius: 16px;
+   box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.1);
+   text-align: center;
+   transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out, background 0.3s ease-in-out;
+   height: 25rem; /* Fixed uniform height */
+   display: flex;
+   flex-direction: column;
+   justify-content: space-between;
+   align-items: center;
+}
+
+.skill-card:hover {
+   transform: scale(1.07);
+   box-shadow: 0px 8px 20px rgba(0, 0, 0, 0.2);
+   background: linear-gradient(to bottom right,rgb(87, 179, 255), #f7f7f7); /* Vibrant hover effect */
+}
+
+.skill-card h3 {
+   font-size: clamp(1.2rem, 2vw, 1.4rem);
+   margin-bottom: 12px;
+   font-weight: 500;
+   color: #222;
+   letter-spacing: 1px;
+}
+
+.skill-card p {
+   font-size: clamp(1rem, 1.2vw, 1.2rem);
+   line-height: 1.6;
+   font-weight: 400;
+   color: #444;
+   margin-bottom: 15px;
+   text-align: center;
+   text-decoration: none;
+}
+
+.skill-card .skill-icon {
+   font-size: 2.5rem;
+   color: #4c8bf5;
+   margin-bottom: 15px;
+}
+
+.skill-card .skill-title {
+   font-weight: 700;
+   color: #222;
+   font-size: clamp(1.3rem, 1.5vw, 1.7rem);
+   margin-bottom: 10px;
+}
+
+.skill-card .skill-description {
+   color: #666;
+   font-size: clamp(1rem, 1.1vw, 1.2rem);
+   line-height: 1.7;
+}
+
+.skill-card .skills-container {
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   gap: 10px;
+}
+
+.skill-card .skill-item {
+   font-size: 0.9rem;
+   font-weight: 500;
+   color: #4c8bf5;
+   padding: 5px 15px;
+   background-color: #f0f4ff;
+   border-radius: 20px;
+   margin: 2px;
+   transition: background-color 0.3s ease-in-out;
+}
+
+.skill-card .skill-item:hover {
+   background-color: #4c8bf5;
+   color: #fff;
+}
+
+/* Mobile Optimization */
+@media (max-width: 600px) {
+   .skills-container {
+      grid-template-columns: 1fr;
+   }
+
+   .skill-card {
+      padding: 15px;
+   }
+}
